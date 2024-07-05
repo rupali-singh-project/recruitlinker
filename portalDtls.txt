@@ -1,0 +1,51 @@
+### **Admin Access:**
+
+**1. Dashboard**
+   - Overview (statistics, recent activity, etc.)
+   
+**2. User Management**
+   - Admins
+      * List of admins with edit and delete details
+      * Add new admin
+
+**3. Job Management**
+   - View all job postings with Approve/reject new job postings Edit job details Delete job postings
+
+**4. Reports**
+   - User activity logs
+
+### **Company Access:**
+
+**1. Dashboard**
+   - Overview (number of job postings, applications received, etc.)
+
+**2. Profile**
+   - Company details with Edit profile(form)
+   - Change password(form)
+
+**3. Job Postings**
+   - List of jobs posted with edit and delete(table) with approve, reject, pending
+   - Post a new job(form)
+
+**4. Applications**
+   - View received applications(Students) with Shortlist/reject applications
+   - Schedule student interviews
+
+
+### **Student/Job Seeker Access:**
+
+**1. Dashboard**
+   - Overview (applications sent, interviews scheduled, etc.)
+
+**2. Profile**
+   - Personal details with Resume/CV upload, Edit profile
+   - Change password
+
+**3. Job Search**
+   - Search job postings
+   - Filter by category, location, salary, etc.
+   - Apply for jobs
+
+**4. Applications**
+   - View jobs applied for
+   - Check application status, View scheduled interviews,Set availability
